@@ -40,11 +40,12 @@
         </h1>
       </section>
       <section class="row">
-        <form>
+        <form method="post" action="mailto:ejsmithwork@gmail.com">
           <!-- name field -->
           <section class="form-group">
-            <label for="exampleFormControlInput1">Name</label>
+            <label for="name">Name</label>
             <input
+              name="name"
               type="text"
               class="form-control"
               id="inputName"
@@ -53,9 +54,10 @@
           </section>
           <!-- email field -->
           <section class="form-group">
-            <label for="exampleFormControlInput1">Email</label>
+            <label for="email">Email</label>
             <input
-              type="email"
+              name="email"
+              type="text"
               class="form-control"
               id="inputEmail"
               placeholder="email@email.com"
@@ -63,10 +65,11 @@
           </section>
           <!-- message field  -->
           <section class="form-group">
-            <label for="exampleFormControlTextarea1">Message</label>
+            <label for="message">Message</label>
             <textarea
+              name="message"
               class="form-control"
-              id="exampleFormControlTextarea1"
+              id="message"
               rows="3"
             ></textarea>
           </section>
