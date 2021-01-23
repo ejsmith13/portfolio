@@ -1,9 +1,21 @@
+button {
+    margin-top: 10px;
+}
+figure {
+    text-align: center;
+    border: red solid 1px;
+   
+}
+
+
 .container {
     padding: 20px;
     background-color: #eee;
     margin: 10%;
     width: 60%;
 }
+
+
 
 /* styling for xs screens */
 @media screen and (max-width: 440px) {
