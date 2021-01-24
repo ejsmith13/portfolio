@@ -1,3 +1,6 @@
+body {
+    background-image: ;
+}
 button {
     margin-top: 10px;
 }
@@ -7,13 +10,32 @@ figure {
    
 }
 
-
 .container {
     padding: 20px;
     background-color: #eee;
     margin: 10%;
     width: 60%;
 }
+
+#headshot {
+    width: 200px;
+    height: auto;
+}
+#linksContainer{
+    all: none;
+    margin:auto
+
+}
+#resume{
+    font-size: large;
+}
+#linkedIn{
+    font-size: large;
+}
+#github{
+    font-size: large;
+}
+
 
 
 
