@@ -17,9 +17,9 @@ https://ejsmith13.github.io/portfolio/
 
 I am including the following screenshots of the finished site:
 
-![alt text](assets/images/screenshot-aboutme.png)
-![alt text](assets/images/screenshot-portfolio.png)
-![alt text](assets/images/screenshot-contact.png)
+![alt text](assets/images/aboutme.png)
+![alt text](assets/images/portfolio.png)
+![alt text](assets/images/contact.png)
 
 
 
