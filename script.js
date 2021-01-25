@@ -1,4 +1,3 @@
-//links for about me page//
 
 //links for portfolio page//
 $("#refactorBtn").on("click", function () {
