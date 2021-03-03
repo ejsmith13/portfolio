@@ -20,3 +20,9 @@ $("#quizBtn").on("click", function () {
   console.log("password button");
   location.href = "https://github.com/ejsmith13/coding_quiz";
 });
+$("#burgerBtn").on("click", function () {
+  console.log("burger button");
+  location.href = "https://github.com/ejsmith13/burger_app";
+});
+
+
