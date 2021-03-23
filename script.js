@@ -24,5 +24,11 @@ $("#burgerBtn").on("click", function () {
   console.log("burger button");
   location.href = "https://github.com/ejsmith13/burger_app";
 });
+$("#workoutBtn").on("click", function () {
+  console.log("workout button");
+  location.href = "https://github.com/ejsmith13/workout-cr";
+});
+
+
 
 
