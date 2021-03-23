@@ -26,7 +26,7 @@ $("#burgerBtn").on("click", function () {
 });
 $("#workoutBtn").on("click", function () {
   console.log("workout button");
-  location.href = "https://github.com/ejsmith13/workout-cr";
+  location.href = "https://github.com/ejsmith13/workout-crusher";
 });
 
 
